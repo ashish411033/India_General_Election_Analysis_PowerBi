@@ -18,7 +18,7 @@ These datasets are modeled in Power BI to showcase vote shares, party performanc
 - ✅ **Party-wise Performance Summary** including total seats and vote percentage  
 - ✅ **State-wise Drill-down** to view results at the regional level  
 - ✅ **Constituency-level Analysis** with filters and slicers  
-- ✅ Visual breakdowns using bar charts, maps, and tables  
+- ✅ Used KPI's, Charts, Mpas to showcase meaningful insights  
 
 
 
@@ -32,3 +32,5 @@ These datasets are modeled in Power BI to showcase vote shares, party performanc
 ## 🛠 Tools Used
 - **Microsoft Power BI**
 - **Excel** (Data Cleaning and Preparation)
+
+
