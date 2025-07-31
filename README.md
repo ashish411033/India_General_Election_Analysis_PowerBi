@@ -33,4 +33,11 @@ These datasets are modeled in Power BI to showcase vote shares, party performanc
 - **Microsoft Power BI**
 - **Excel** (Data Cleaning and Preparation)
 
+![Result Ananlysis Screenshot](https://github.com/ashish411033/India_General_Election_Analysis_PowerBi/blob/4e63e3901d74038ef38f896a79dfbb387a08b096/India%20General%20election%20result%20analysis%202024.PNG)
+![Overview Page Screenshot](https://github.com/ashish411033/India_General_Election_Analysis_PowerBi/blob/4e63e3901d74038ef38f896a79dfbb387a08b096/Overview.PNG)
+![state demographic Screenshot](https://github.com/ashish411033/India_General_Election_Analysis_PowerBi/blob/4e63e3901d74038ef38f896a79dfbb387a08b096/State%20demographic%20analysis.PNG)
+![political landscape Screenshot](https://github.com/ashish411033/India_General_Election_Analysis_PowerBi/blob/4e63e3901d74038ef38f896a79dfbb387a08b096/constituency%20analysis.PNG)
+![constituency analysis Screenshot](https://github.com/ashish411033/India_General_Election_Analysis_PowerBi/blob/4e63e3901d74038ef38f896a79dfbb387a08b096/political%20landscape%20by%20state.PNG)
+![details grid Screenshot](https://github.com/ashish411033/India_General_Election_Analysis_PowerBi/blob/4e63e3901d74038ef38f896a79dfbb387a08b096/details%20grid.PNG)
+
 
